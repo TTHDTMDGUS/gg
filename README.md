@@ -1,2 +1,2 @@
-# gg
-gg
+c++ lol
+hahahaha
